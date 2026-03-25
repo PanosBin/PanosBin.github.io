@@ -180,34 +180,7 @@ description: "Projects and research by Panagiotis Binikos."
     </div>
   </div>
 
-  <div class="project-card">
-    <span class="project-card__badge">EU Grant</span>
-    <h3>CyberGuard &mdash; European Commission</h3>
-    <p>
-      Coordinated an <strong>EU-funded grant proposal</strong> aligning
-      scientific research with financial requirements in cybersecurity.
-    </p>
-
-    <div class="project-tags">
-      <span class="project-tag">EU Funding</span>
-      <span class="project-tag">Cybersecurity</span>
-      <span class="project-tag">Project Management</span>
-      <span class="project-tag">Grant Writing</span>
-    </div>
-
-    <ul class="project-card__list">
-      <li>Brought the proposal to Maastricht University and met all requirements.</li>
-      <li>Collaborated with industry experts across Europe.</li>
-      <li>Built a professional network in the cybersecurity sector.</li>
-    </ul>
-
-    <div class="project-card__meta">
-      <i class="fas fa-flag-eu" aria-hidden="true"></i>
-      European Commission &bull; Maastricht
-    </div>
-  </div>
-
-  <div class="project-card">
+<div class="project-card">
     <span class="project-card__badge">Blockchain</span>
     <h3>DeFi &amp; Blockchain Projects</h3>
     <p>

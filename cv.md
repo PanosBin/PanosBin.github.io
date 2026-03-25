@@ -70,16 +70,7 @@ description: "Curriculum Vitae of Panagiotis Binikos"
     </div>
   </div>
 
-  <div class="cv-item">
-    <div class="cv-period">Jan 2024 &ndash; Mar 2024</div>
-    <div class="cv-details">
-      <strong>Project Management Coordinator</strong>
-      <div class="inst">EU Funded CyberGuard, European Commission</div>
-      <div class="note">Brought an EU grant proposal to the university and collaborated with cybersecurity experts across Europe</div>
-    </div>
-  </div>
-
-  <div class="cv-item">
+<div class="cv-item">
     <div class="cv-period">2024 &ndash; present</div>
     <div class="cv-details">
       <strong>Blockchain &amp; Crypto Freelancer</strong>

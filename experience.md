@@ -81,20 +81,6 @@ description: "Professional experience of Panagiotis Binikos."
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <div class="timeline-header">
-        <h3>Project Management Coordinator</h3>
-        <span class="timeline-period">Jan 2024 &ndash; Mar 2024</span>
-      </div>
-      <div class="timeline-inst">EU Funded CyberGuard, European Commission</div>
-      <p class="timeline-note">Brought an EU grant proposal to the university and collaborated with cybersecurity experts across Europe.</p>
-    </div>
-  </div>
-
-  <div class="timeline-connector"></div>
-
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <div class="timeline-header">
         <h3>Economics Tutor</h3>
         <span class="timeline-period">2021 &ndash; 2024</span>
       </div>
