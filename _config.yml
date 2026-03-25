@@ -1,0 +1,43 @@
+title: Panagiotis Binikos
+description: >-
+  MSc Student in Data Science & AI at Maastricht University.
+  Passionate about data science, cybersecurity, and artificial intelligence.
+
+url: "https://panagiotisbinikos.github.io"
+baseurl: ""   # overridden by configure-pages action at build time
+
+# ── Author ──────────────────────────────────────────────────────────────────
+author:
+  name:               Panagiotis Binikos
+  title:              MSc Student in Data Science & AI
+  institution:        Maastricht University
+  department:         Department of Advanced Computing Sciences
+  email:              panagiotis.mpinikos.7@gmail.com
+  phone:              "+30 6949742018"
+  location:           "Maastricht, Netherlands"
+  github:             panagiotisbinikos
+  linkedin:           "https://linkedin.com/in/panagiotisbinikos"
+  photo:              "assets/img/prof_pic.jpg"
+
+# ── Plugins ──────────────────────────────────────────────────────────────────
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# ── Build settings ────────────────────────────────────────────────────────────
+markdown: kramdown
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
+
+permalink: pretty
+
+# ── Exclude from processing ───────────────────────────────────────────────────
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - .bundle/
