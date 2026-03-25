@@ -3,7 +3,7 @@ description: >-
   MSc Student in Data Science & AI at Maastricht University.
   Passionate about data science, cybersecurity, and artificial intelligence.
 
-url: "https://panagiotisbinikos.github.io"
+url: "https://panosbin.github.io"
 baseurl: ""   # overridden by configure-pages action at build time
 
 # ── Author ──────────────────────────────────────────────────────────────────
@@ -13,7 +13,7 @@ author:
   institution:        Maastricht University
   department:         Department of Advanced Computing Sciences
   email:              panagiotis.mpinikos.7@gmail.com
-  phone:              "+30 6949742018"
+
   location:           "Maastricht, Netherlands"
   github:             panagiotisbinikos
   linkedin:           "https://linkedin.com/in/panagiotisbinikos"

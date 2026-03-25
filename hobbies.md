@@ -88,22 +88,12 @@ description: "Hobbies and football achievements of Panagiotis Binikos."
       </div>
     </div>
 
-    <div class="ft-item ft-item--current">
-      <div class="ft-season">2022/23</div>
-      <div class="ft-content">
-        <div class="ft-team">RKHSV Maastricht <span class="ft-country">🇳🇱</span></div>
-        <div class="ft-result">
-          <span class="ft-badge">First Season</span>
-        </div>
-      </div>
-    </div>
-
     <div class="ft-divider">
       <span>Greece</span>
     </div>
 
     <div class="ft-item">
-      <div class="ft-season">2021 &ndash; present</div>
+      <div class="ft-season">2021/22</div>
       <div class="ft-content">
         <div class="ft-team">Atromitos Saint George <span class="ft-country">🇬🇷</span></div>
         <div class="ft-result">

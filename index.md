@@ -31,11 +31,6 @@ permalink: /
         <i class="fas fa-envelope" aria-hidden="true"></i>
         <span>Email</span>
       </a>
-      <a class="about__social-link"
-         href="tel:{{ site.author.phone }}">
-        <i class="fas fa-phone" aria-hidden="true"></i>
-        <span>{{ site.author.phone }}</span>
-      </a>
       <a class="about__social-link" href="#">
         <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
         <span>{{ site.author.location }}</span>
