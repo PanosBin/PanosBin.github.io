@@ -167,8 +167,14 @@
         });
       }, { threshold: 0.08 });
 
-      document.querySelectorAll('.project-card, .publication-item, .cv-item, .timeline-item, .achievement-card, .hobby-section').forEach(function(el) {
+      document.querySelectorAll('.project-card, .publication-item, .cv-item, .timeline-item, .achievement-card, .hobby-section, .cv-section, .about__photo-col, .about__content').forEach(function(el) {
         el.classList.add('fade-in');
+        observer.observe(el);
+      });
+
+      /* Stagger animation for grids */
+      document.querySelectorAll('.projects-grid, .highlights-grid, .skill-tags, .interests-list').forEach(function(el) {
+        el.classList.add('stagger-in');
         observer.observe(el);
       });
     })();
