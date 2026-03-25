@@ -59,8 +59,8 @@ permalink: /
 
 <p>
   My experience spans data science, bioinformatics, cybersecurity, and teaching. I have worked as a Data Science Intern at
-  the Laboratory of Cellular Genomic Medicine (MUMC+), coordinated a &euro;100k EU-funded CyberGuard grant proposal,
-  and currently serve as a Teaching Assistant at Maastricht University across multiple courses including NLP, Machine Learning,
+  the Laboratory of Cellular Genomic Medicine (MUMC+)
+  and currently serve as a Teaching Assistant at Maastricht University across multiple courses including NLP
   Cryptography, and Computer Security.
 </p>
 
