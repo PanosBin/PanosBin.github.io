@@ -48,7 +48,7 @@ description: "Curriculum Vitae of Panagiotis Binikos"
     <div class="cv-details">
       <strong>Master&rsquo;s Research Thesis</strong>
       <div class="inst">Maastricht University</div>
-      <div class="note">LLM-integrated pipeline for Android vulnerability detection; AST parsing, code clustering, prompt engineering</div>
+      <div class="note">Building an LLM-integrated pipeline for Android vulnerability detection, combining AST parsing, code clustering, and prompt engineering</div>
     </div>
   </div>
 
@@ -66,7 +66,7 @@ description: "Curriculum Vitae of Panagiotis Binikos"
     <div class="cv-details">
       <strong>Data Science Intern</strong>
       <div class="inst">Laboratory of Cellular Genomic Medicine, MUMC+, Maastricht</div>
-      <div class="note">Automated bioinformatic pipeline; WGS fragmentomics &amp; scRNA-seq analysis; non-invasive preimplantation genetic testing</div>
+      <div class="note">Built an automated pipeline combining WGS fragmentomics with scRNA-seq analysis for non-invasive preimplantation genetic testing</div>
     </div>
   </div>
 
@@ -75,7 +75,7 @@ description: "Curriculum Vitae of Panagiotis Binikos"
     <div class="cv-details">
       <strong>Project Management Coordinator</strong>
       <div class="inst">EU Funded CyberGuard, European Commission</div>
-      <div class="note">Brought &euro;100k grant proposal to the university; collaborated with cybersecurity experts across Europe</div>
+      <div class="note">Brought an EU grant proposal to the university and collaborated with cybersecurity experts across Europe</div>
     </div>
   </div>
 
@@ -84,7 +84,7 @@ description: "Curriculum Vitae of Panagiotis Binikos"
     <div class="cv-details">
       <strong>Blockchain &amp; Crypto Freelancer</strong>
       <div class="inst">Remote</div>
-      <div class="note">100+ projects during testnet &amp; mainnet phases; DeFi ecosystems &amp; smart contracts</div>
+      <div class="note">Over 100 projects during testnet and mainnet phases, focused on DeFi ecosystems and smart contracts</div>
     </div>
   </div>
 

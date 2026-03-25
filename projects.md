@@ -31,9 +31,9 @@ description: "Projects and research by Panagiotis Binikos."
     </div>
 
     <ul class="project-card__list">
-      <li>Built LLM-based code summarization to reduce static analysis false positives.</li>
-      <li>Developed AST parsing, code clustering, and prompt engineering workflows.</li>
-      <li>Evaluated on real-world open-source Android apps, benchmarking precision and recall.</li>
+      <li>Using LLM-based code summarization to reduce static analysis false positives.</li>
+      <li>Developed custom AST parsing, code clustering, and prompt engineering workflows.</li>
+      <li>Evaluated on real-world open-source Android apps to benchmark precision and recall.</li>
     </ul>
 
     <div class="project-card__meta">
@@ -59,9 +59,9 @@ description: "Projects and research by Panagiotis Binikos."
     </div>
 
     <ul class="project-card__list">
-      <li>Hub-Spoke networking, Azure Firewall, and strict NSG segmentation.</li>
-      <li>Conditional Access, MFA, and Privileged Identity Management (PIM).</li>
-      <li>Hardened IaaS/PaaS assets using CIS benchmarks and Private Endpoints.</li>
+      <li>Set up Hub-Spoke networking with Azure Firewall and strict NSG segmentation.</li>
+      <li>Configured Conditional Access, MFA, and Privileged Identity Management (PIM).</li>
+      <li>Hardened IaaS and PaaS assets using CIS benchmarks and Private Endpoints.</li>
     </ul>
 
     <div class="project-card__meta">
@@ -89,7 +89,7 @@ description: "Projects and research by Panagiotis Binikos."
     <ul class="project-card__list">
       <li>Inferred TE vs. ICM cfDNA contributions in blastocyst culture media.</li>
       <li>Designed lineage-enriched BAM splitting and copy-number analysis methods.</li>
-      <li>Framework for non-invasive preimplantation genetic testing (niPGT).</li>
+      <li>Created a framework for non-invasive preimplantation genetic testing (niPGT).</li>
     </ul>
 
     <div class="project-card__meta">
@@ -115,9 +115,9 @@ description: "Projects and research by Panagiotis Binikos."
     </div>
 
     <ul class="project-card__list">
-      <li>Processed financial data in ROOT format (CERN).</li>
-      <li>Applied TranAD transformer model for market anomaly detection.</li>
-      <li>Identified abnormal market behaviors using data-driven techniques.</li>
+      <li>Processed financial data stored in ROOT format (CERN).</li>
+      <li>Applied the TranAD transformer model to detect market anomalies.</li>
+      <li>Identified abnormal market behaviors through data-driven analysis.</li>
     </ul>
 
     <div class="project-card__meta">
@@ -143,9 +143,9 @@ description: "Projects and research by Panagiotis Binikos."
     </div>
 
     <ul class="project-card__list">
-      <li>Multi-modal approach combining text and visual features.</li>
-      <li>Leveraged BERT for natural language understanding.</li>
-      <li>Automated assessment of charismatic leadership tactics.</li>
+      <li>Combined text and visual features in a multi-modal approach.</li>
+      <li>Used BERT for natural language understanding.</li>
+      <li>Automated the assessment of charismatic leadership tactics.</li>
     </ul>
 
     <div class="project-card__meta">
@@ -170,8 +170,8 @@ description: "Projects and research by Panagiotis Binikos."
     </div>
 
     <ul class="project-card__list">
-      <li>NLP-powered conversational interface for student queries.</li>
-      <li>Real-time data processing and cross-team collaboration.</li>
+      <li>Built an NLP-powered conversational interface for student queries.</li>
+      <li>Handled real-time data processing with cross-team collaboration.</li>
     </ul>
 
     <div class="project-card__meta">
@@ -184,7 +184,7 @@ description: "Projects and research by Panagiotis Binikos."
     <span class="project-card__badge">EU Grant</span>
     <h3>CyberGuard &mdash; European Commission</h3>
     <p>
-      Coordinated a <strong>&euro;100k EU-funded grant proposal</strong> aligning
+      Coordinated an <strong>EU-funded grant proposal</strong> aligning
       scientific research with financial requirements in cybersecurity.
     </p>
 
@@ -196,9 +196,9 @@ description: "Projects and research by Panagiotis Binikos."
     </div>
 
     <ul class="project-card__list">
-      <li>Brought the proposal to Maastricht University, meeting all requirements.</li>
+      <li>Brought the proposal to Maastricht University and met all requirements.</li>
       <li>Collaborated with industry experts across Europe.</li>
-      <li>Strengthened professional network in cybersecurity sector.</li>
+      <li>Built a professional network in the cybersecurity sector.</li>
     </ul>
 
     <div class="project-card__meta">
@@ -224,9 +224,9 @@ description: "Projects and research by Panagiotis Binikos."
     </div>
 
     <ul class="project-card__list">
-      <li>Hands-on experience with DeFi protocols and ecosystems.</li>
-      <li>Understanding of blockchain technology and market dynamics.</li>
-      <li>Investor experience from an early age in financial markets.</li>
+      <li>Hands-on work with DeFi protocols and ecosystems.</li>
+      <li>Deep understanding of blockchain technology and market dynamics.</li>
+      <li>Active investor in financial markets from an early age.</li>
     </ul>
 
     <div class="project-card__meta">

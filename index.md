@@ -47,7 +47,7 @@ permalink: /
     </p>
 
     <p class="about__tagline">
-      A mission-driven person eager to explore, learn, and create at the intersection of data, cybersecurity, and artificial intelligence.
+      Curious about data, cybersecurity, and AI. Always looking to learn something new and put it to use.
     </p>
 
 <p>

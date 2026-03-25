@@ -19,7 +19,7 @@ description: "Professional experience of Panagiotis Binikos."
         <span class="timeline-period">Sep 2025 &ndash; Present</span>
       </div>
       <div class="timeline-inst">Maastricht University</div>
-      <p class="timeline-note">LLM-integrated pipeline for Android vulnerability detection; AST parsing, code clustering, prompt engineering.</p>
+      <p class="timeline-note">Building an LLM-integrated pipeline for Android vulnerability detection, combining AST parsing, code clustering, and prompt engineering.</p>
     </div>
   </div>
 
@@ -57,7 +57,7 @@ description: "Professional experience of Panagiotis Binikos."
         <span class="timeline-period">Sep 2024 &ndash; May 2025</span>
       </div>
       <div class="timeline-inst">Laboratory of Cellular Genomic Medicine, MUMC+, Maastricht</div>
-      <p class="timeline-note">Automated bioinformatic pipeline; WGS fragmentomics &amp; scRNA-seq analysis; non-invasive preimplantation genetic testing.</p>
+      <p class="timeline-note">Built an automated bioinformatic pipeline combining WGS fragmentomics with scRNA-seq analysis for non-invasive preimplantation genetic testing.</p>
     </div>
   </div>
 
@@ -71,7 +71,7 @@ description: "Professional experience of Panagiotis Binikos."
         <span class="timeline-period">2024 &ndash; Present</span>
       </div>
       <div class="timeline-inst">Remote</div>
-      <p class="timeline-note">100+ projects during testnet &amp; mainnet phases; DeFi ecosystems &amp; smart contracts.</p>
+      <p class="timeline-note">Worked on over 100 projects during testnet and mainnet phases, focused on DeFi ecosystems and smart contracts.</p>
     </div>
   </div>
 
@@ -85,7 +85,7 @@ description: "Professional experience of Panagiotis Binikos."
         <span class="timeline-period">Jan 2024 &ndash; Mar 2024</span>
       </div>
       <div class="timeline-inst">EU Funded CyberGuard, European Commission</div>
-      <p class="timeline-note">Brought &euro;100k grant proposal to the university; collaborated with cybersecurity experts across Europe.</p>
+      <p class="timeline-note">Brought an EU grant proposal to the university and collaborated with cybersecurity experts across Europe.</p>
     </div>
   </div>
 
@@ -104,7 +104,7 @@ description: "Professional experience of Panagiotis Binikos."
         <li>Macroeconomics</li>
         <li>Statistics</li>
       </ul>
-      <p class="timeline-note">Delivered over 200 hours of private tutoring in economics, strengthening communication skills and ability to explain complex concepts to non-experts.</p>
+      <p class="timeline-note">Over 200 hours of private tutoring in economics, helping students grasp complex concepts in a simple way.</p>
     </div>
   </div>
 
