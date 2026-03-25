@@ -91,7 +91,7 @@ permalink: /
     <h3>Awards &amp; Memberships</h3>
     <ul class="interests-list">
       <li><strong>MENSA International IQ Society</strong> &mdash; Top 2% IQ score (&ge;135)</li>
-      <li><strong>Scholarship</strong> &mdash; Hellenic College of Thessaloniki</li>
+
       <li><strong>Finance Club</strong> &mdash; University of Macedonia</li>
     </ul>
 
