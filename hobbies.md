@@ -32,10 +32,6 @@ description: "Hobbies and football achievements of Panagiotis Binikos."
         <span class="player-card__label">Foot</span>
         <span class="player-card__value">Right</span>
       </div>
-      <div class="player-card__stat">
-        <span class="player-card__label">Years Active</span>
-        <span class="player-card__value">2013 &ndash; Present</span>
-      </div>
     </div>
   </div>
 
@@ -49,15 +45,15 @@ description: "Hobbies and football achievements of Panagiotis Binikos."
     </div>
     <div class="highlight-card highlight-card--silver">
       <div class="highlight-number">2&times;</div>
-      <div class="highlight-text">Maastricht Cup Winner</div>
+      <div class="highlight-text">Cup Winner</div>
     </div>
     <div class="highlight-card">
       <div class="highlight-number">2&times;</div>
       <div class="highlight-text">Super Cup Winner</div>
     </div>
     <div class="highlight-card">
-      <div class="highlight-number">1&times;</div>
-      <div class="highlight-text">Cup Winner (30-Artp)</div>
+      <div class="highlight-number">2&times;</div>
+      <div class="highlight-text">Maastricht Cup Winner</div>
     </div>
   </div>
 
@@ -98,7 +94,7 @@ description: "Hobbies and football achievements of Panagiotis Binikos."
         <div class="ft-team">Atromitos Saint George <span class="ft-country">🇬🇷</span></div>
         <div class="ft-result">
           <span class="ft-badge ft-badge--gold">Champion</span>
-          <span class="ft-badge">Cup Winner (30-Artp)</span>
+          <span class="ft-badge">Cup Winner</span>
         </div>
       </div>
     </div>
@@ -170,28 +166,6 @@ description: "Hobbies and football achievements of Panagiotis Binikos."
         </div>
       </div>
     </div>
-
-    <div class="ft-item">
-      <div class="ft-season">2014/15</div>
-      <div class="ft-content">
-        <div class="ft-team">Aris FC U16 <span class="ft-country">🇬🇷</span></div>
-        <div class="ft-result">
-          <span class="ft-badge ft-badge--bronze">Semifinals</span>
-          <span class="ft-badge ft-badge--gold">U17 Champion</span>
-        </div>
-      </div>
-    </div>
-
-    <div class="ft-item">
-      <div class="ft-season">2013/14</div>
-      <div class="ft-content">
-        <div class="ft-team">Aris FC U15 <span class="ft-country">🇬🇷</span></div>
-        <div class="ft-result">
-          <span class="ft-badge ft-badge--silver">2nd &mdash; Superleague U15 North</span>
-        </div>
-      </div>
-    </div>
-
   </div>
 </div>
 

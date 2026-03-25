@@ -8,8 +8,7 @@ description: "Projects and research by Panagiotis Binikos."
 <div class="section-header">
   <h1>Projects &amp; Research</h1>
   <p class="section-subtitle">
-    From cybersecurity and AI to financial markets and bioinformatics &mdash; here are the projects
-    that define my technical journey.
+    I build AI and large language model systems and apply them across finance, cybersecurity, and bioinformatics. In this section you will find the projects that define that journey.
   </p>
 </div>
 
