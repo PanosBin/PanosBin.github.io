@@ -44,12 +44,12 @@
       <ul class="nav__links" id="navLinks" role="list">
         <li><a href="{{ '/' | relative_url }}"
                {% if page.url == '/' %}class="active" aria-current="page"{% endif %}>About</a></li>
-        <li><a href="{{ '/publications/' | relative_url }}"
-               {% if page.url contains 'publications' %}class="active" aria-current="page"{% endif %}>Publications</a></li>
-        <li><a href="{{ '/projects/' | relative_url }}"
-               {% if page.url contains 'projects' %}class="active" aria-current="page"{% endif %}>Projects</a></li>
         <li><a href="{{ '/experience/' | relative_url }}"
                {% if page.url contains 'experience' %}class="active" aria-current="page"{% endif %}>Experience</a></li>
+        <li><a href="{{ '/projects/' | relative_url }}"
+               {% if page.url contains 'projects' %}class="active" aria-current="page"{% endif %}>Projects</a></li>
+        <li><a href="{{ '/publications/' | relative_url }}"
+               {% if page.url contains 'publications' %}class="active" aria-current="page"{% endif %}>Publications</a></li>
         <li><a href="{{ '/hobbies/' | relative_url }}"
                {% if page.url contains 'hobbies' %}class="active" aria-current="page"{% endif %}>Hobbies</a></li>
         <li><a href="{{ '/cv/' | relative_url }}"

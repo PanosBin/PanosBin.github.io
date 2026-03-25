@@ -68,10 +68,8 @@ permalink: /
     <ul class="interests-list">
       <li>Data Science &amp; Machine Learning</li>
       <li>Cybersecurity &amp; Cloud Security</li>
-      <li>Generative AI &amp; Large Language Models</li>
-      <li>Blockchain &amp; Decentralized Finance</li>
       <li>Financial Markets &amp; Algorithmic Trading</li>
-      <li>Bioinformatics &amp; Computational Genomics</li>
+      <li>Blockchain &amp; Decentralized Finance</li>
     </ul>
 
     <h3>Skills</h3>
