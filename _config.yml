@@ -1,6 +1,6 @@
 title: Panagiotis Binikos
 description: >-
-  MSc Student in Data Science & AI at Maastricht University.
+  AI Engineer at 227 Data. MSc in Data Science & AI from Maastricht University.
   Passionate about data science, cybersecurity, and artificial intelligence.
 
 url: "https://panosbin.github.io"
@@ -9,12 +9,12 @@ baseurl: ""   # overridden by configure-pages action at build time
 # ── Author ──────────────────────────────────────────────────────────────────
 author:
   name:               Panagiotis Binikos
-  title:              MSc Student in Data Science & AI
-  institution:        Maastricht University
-  department:         Department of Advanced Computing Sciences
+  title:              AI Engineer at 227 Data
+  institution:        227 Data
+  department:         ""
   email:              panagiotis.mpinikos.7@gmail.com
 
-  location:           "Maastricht, Netherlands"
+  location:           "Rotterdam, Netherlands"
   github:             panagiotisbinikos
   linkedin:           "https://linkedin.com/in/panagiotisbinikos"
   photo:              "assets/img/prof_pic.jpeg"

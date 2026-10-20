@@ -18,7 +18,7 @@ description: "Curriculum Vitae of Panagiotis Binikos"
     <div class="cv-details">
       <strong>MSc in Data Science for Decision Making</strong>
       <div class="inst">Maastricht University</div>
-      <div class="note">Thesis: &ldquo;Designing An LLM-Integrated Pipeline For Android Vulnerability Detection&rdquo;</div>
+      <div class="note">Thesis: &ldquo;LLM-Augmented SAST Reports for Android: A Pilot Human Study of Vulnerability Triage&rdquo; &mdash; Published at IEEE CSR 2026</div>
     </div>
   </div>
 
@@ -44,16 +44,42 @@ description: "Curriculum Vitae of Panagiotis Binikos"
   <h2>Professional Experience</h2>
 
   <div class="cv-item">
-    <div class="cv-period">Sep 2025 &ndash; present</div>
+    <div class="cv-period">2026 &ndash; present</div>
     <div class="cv-details">
-      <strong>Master&rsquo;s Research Thesis</strong>
-      <div class="inst">Maastricht University</div>
-      <div class="note">Building an LLM-integrated pipeline for Android vulnerability detection, combining AST parsing, code clustering, and prompt engineering</div>
+      <strong>AI Engineer &mdash; Frontier Program</strong>
+      <div class="inst">227 Data, Rotterdam, Netherlands</div>
     </div>
   </div>
 
   <div class="cv-item">
-    <div class="cv-period">Jan 2025 &ndash; present</div>
+    <div class="cv-period">Apr 2026 &ndash; present</div>
+    <div class="cv-details">
+      <strong>AI Trainer &amp; Evaluator | Contractor</strong>
+      <div class="inst">Micro1 Inc, Remote</div>
+      <div class="note">AI training and evaluation tasks focused on improving model quality, reasoning, and instruction-following</div>
+    </div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-period">2026 &ndash; present</div>
+    <div class="cv-details">
+      <strong>AI Engineer</strong>
+      <div class="inst">Experizon Start-up, Remote</div>
+      <div class="note">AI features across the startup&rsquo;s products; delivered AI-based autograding systems and AI project creation through API integrations</div>
+    </div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-period">Sep 2025 &ndash; May 2026</div>
+    <div class="cv-details">
+      <strong>Master&rsquo;s Research Thesis</strong>
+      <div class="inst">Maastricht University</div>
+      <div class="note">Built an LLM-integrated pipeline for Android vulnerability detection. Published at IEEE CSR 2026</div>
+    </div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-period">Jan 2025 &ndash; Jun 2026</div>
     <div class="cv-details">
       <strong>Teaching Assistant</strong>
       <div class="inst">Maastricht University, DACS</div>
@@ -70,7 +96,7 @@ description: "Curriculum Vitae of Panagiotis Binikos"
     </div>
   </div>
 
-<div class="cv-item">
+  <div class="cv-item">
     <div class="cv-period">2024 &ndash; present</div>
     <div class="cv-details">
       <strong>Blockchain &amp; Crypto Freelancer</strong>
@@ -122,6 +148,65 @@ description: "Curriculum Vitae of Panagiotis Binikos"
   </div>
 </div>
 
+<!-- ── Certificates ──────────────────────────────────────────────────────── -->
+<div class="cv-section">
+  <h2>Certificates</h2>
+
+  <div class="cv-item">
+    <div class="cv-period">Feb 2026</div>
+    <div class="cv-details">
+      <strong>Cybersecurity Lab</strong>
+      <div class="inst">Code.Hub</div>
+      <div class="note">Enterprise Azure Security &amp; Zero Trust Deployment</div>
+    </div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-period">Aug 2025</div>
+    <div class="cv-details">
+      <strong>CompTIA Security+ (SY0-701) Bootcamp</strong>
+      <div class="inst">Udemy</div>
+      <div class="note">Security fundamentals: threats, vulnerabilities, architecture, operations, incident response, GRC</div>
+    </div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-period">Jan 2022</div>
+    <div class="cv-details">
+      <strong>ReGeneration Initiative: Upskilling Greek Youth for the Digital Era</strong>
+      <div class="inst">Code.Hub</div>
+      <div class="note">Intensive upskilling in Microsoft technologies and digital skills</div>
+    </div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-period">Dec 2021</div>
+    <div class="cv-details">
+      <strong>The Data Science Course 2021: Complete Data Science Bootcamp</strong>
+      <div class="inst">Udemy</div>
+      <div class="note">Statistics, Python, data preprocessing, and machine learning fundamentals</div>
+    </div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-period">Dec 2020</div>
+    <div class="cv-details">
+      <strong>4th ECB Simulation Conference</strong>
+      <div class="inst">Get_Involved</div>
+      <div class="note">Simulated the ECB Governing Council, analyzing economic data and debating monetary policy</div>
+    </div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-period">Mar 2020</div>
+    <div class="cv-details">
+      <strong>Blockchain and Cryptocurrencies Workshop</strong>
+      <div class="inst">Get_Involved</div>
+      <div class="note">Blockchain technology fundamentals, cryptocurrencies, and applications in finance</div>
+    </div>
+  </div>
+</div>
+
 <!-- ── Awards ──────────────────────────────────────────────────────────── -->
 <div class="cv-section">
   <h2>Awards &amp; Memberships</h2>
@@ -154,6 +239,14 @@ description: "Curriculum Vitae of Panagiotis Binikos"
 <!-- ── Publications ──────────────────────────────────────────────────────── -->
 <div class="cv-section">
   <h2>Publications</h2>
+
+  <div class="cv-item">
+    <div class="cv-period">Jun 2026</div>
+    <div class="cv-details">
+      <strong>LLM-Augmented SAST Reports for Android: A Pilot Human Study of Vulnerability Triage</strong>
+      <div class="inst">IEEE International Conference on Cyber Security and Resilience (IEEE CSR)</div>
+    </div>
+  </div>
 
   <div class="cv-item">
     <div class="cv-period">Nov 2021</div>

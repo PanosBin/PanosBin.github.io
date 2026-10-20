@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 permalink: /publications/
-description: "Publications by Panagiotis Binikos — equity research reports published on Bloomberg, Refinitiv, and FactSet."
+description: "Publications by Panagiotis Binikos — IEEE CSR 2026 and equity research reports published on Bloomberg, Refinitiv, and FactSet."
 ---
 
 <div class="section-header">

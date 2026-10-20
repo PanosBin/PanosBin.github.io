@@ -15,11 +15,10 @@ description: "Professional experience of Panagiotis Binikos."
     <div class="timeline-dot timeline-dot--current"></div>
     <div class="timeline-content">
       <div class="timeline-header">
-        <h3>Master&rsquo;s Research Thesis</h3>
-        <span class="timeline-period">Sep 2025 &ndash; Present</span>
+        <h3>AI Engineer &mdash; Frontier Program</h3>
+        <span class="timeline-period">2026 &ndash; Present</span>
       </div>
-      <div class="timeline-inst">Maastricht University</div>
-      <p class="timeline-note">Building an LLM-integrated pipeline for Android vulnerability detection, combining AST parsing, code clustering, and prompt engineering.</p>
+      <div class="timeline-inst">227 Data &middot; Rotterdam, Netherlands</div>
     </div>
   </div>
 
@@ -29,8 +28,50 @@ description: "Professional experience of Panagiotis Binikos."
     <div class="timeline-dot timeline-dot--current"></div>
     <div class="timeline-content">
       <div class="timeline-header">
+        <h3>AI Trainer &amp; Evaluator | Contractor</h3>
+        <span class="timeline-period">Apr 2026 &ndash; Present</span>
+      </div>
+      <div class="timeline-inst">Micro1 Inc &middot; Remote</div>
+      <p class="timeline-note">Contributing to AI training and evaluation tasks focused on improving model quality, reasoning, and instruction-following.</p>
+    </div>
+  </div>
+
+  <div class="timeline-connector"></div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot timeline-dot--current"></div>
+    <div class="timeline-content">
+      <div class="timeline-header">
+        <h3>AI Engineer</h3>
+        <span class="timeline-period">2026 &ndash; Present</span>
+      </div>
+      <div class="timeline-inst">Experizon Start-up &middot; Remote</div>
+      <p class="timeline-note">Implementing AI features across the startup&rsquo;s products and internal workflows. Delivered AI-based autograding systems and AI project creation through API integrations.</p>
+    </div>
+  </div>
+
+  <div class="timeline-connector"></div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <div class="timeline-header">
+        <h3>Master&rsquo;s Research Thesis</h3>
+        <span class="timeline-period">Sep 2025 &ndash; May 2026</span>
+      </div>
+      <div class="timeline-inst">Maastricht University</div>
+      <p class="timeline-note">Built an LLM-integrated pipeline for Android vulnerability detection, combining AST parsing, code clustering, and prompt engineering. Published at IEEE CSR 2026.</p>
+    </div>
+  </div>
+
+  <div class="timeline-connector"></div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <div class="timeline-header">
         <h3>Teaching Assistant</h3>
-        <span class="timeline-period">Jan 2025 &ndash; Present</span>
+        <span class="timeline-period">Jan 2025 &ndash; Jun 2026</span>
       </div>
       <div class="timeline-inst">Maastricht University &middot; Department of Advanced Computing Sciences</div>
       <ul class="timeline-courses">
@@ -50,7 +91,7 @@ description: "Professional experience of Panagiotis Binikos."
   <div class="timeline-connector"></div>
 
   <div class="timeline-item">
-    <div class="timeline-dot timeline-dot--current"></div>
+    <div class="timeline-dot"></div>
     <div class="timeline-content">
       <div class="timeline-header">
         <h3>Data Science Intern</h3>

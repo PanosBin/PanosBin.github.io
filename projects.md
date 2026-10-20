@@ -15,11 +15,12 @@ description: "Projects and research by Panagiotis Binikos."
 <div class="projects-grid projects-grid--wide">
 
   <div class="project-card">
-    <span class="project-card__badge">MSc Thesis</span>
-    <h3>LLM-Integrated Pipeline for Android Vulnerability Detection</h3>
+    <span class="project-card__badge">MSc Thesis &bull; Published</span>
+    <h3>LLM-Augmented SAST Reports for Android Vulnerability Triage</h3>
     <p>
-      Designing an end-to-end Android vulnerability detection pipeline that integrates
+      Designed an end-to-end Android vulnerability detection pipeline that integrates
       <strong>LLM-based code summarization</strong> to reduce SAST false positives.
+      Published at <strong>IEEE CSR 2026</strong>.
     </p>
 
     <div class="project-tags">
@@ -31,14 +32,14 @@ description: "Projects and research by Panagiotis Binikos."
     </div>
 
     <ul class="project-card__list">
-      <li>Using LLM-based code summarization to reduce static analysis false positives.</li>
+      <li>Used LLM-based code summarization to reduce static analysis false positives.</li>
       <li>Developed custom AST parsing, code clustering, and prompt engineering workflows.</li>
-      <li>Evaluated on real-world open-source Android apps to benchmark precision and recall.</li>
+      <li>Conducted a pilot human study evaluating vulnerability triage with LLM-augmented reports.</li>
     </ul>
 
     <div class="project-card__meta">
       <i class="fas fa-university" aria-hidden="true"></i>
-      Maastricht University
+      Maastricht University &bull; IEEE CSR 2026
     </div>
   </div>
 
@@ -155,23 +156,24 @@ description: "Projects and research by Panagiotis Binikos."
   </div>
 
   <div class="project-card">
-    <span class="project-card__badge">Chatbot</span>
-    <h3>University Digital Assistant Chatbot</h3>
+    <span class="project-card__badge">NLP</span>
+    <h3>Chatbot &ndash; Digital Assistant</h3>
     <p>
-      Developed a <strong>chatbot digital assistant</strong> for university students using
-      natural language processing and real-time data processing.
+      Developed a <strong>chatbot digital assistant</strong> using Context-Free Grammar parsing,
+      LSTM, NER modules, and BERT embeddings for dialogue understanding.
     </p>
 
     <div class="project-tags">
       <span class="project-tag">NLP</span>
-      <span class="project-tag">Chatbot</span>
-      <span class="project-tag">Real-time</span>
+      <span class="project-tag">BERT</span>
+      <span class="project-tag">LSTM</span>
+      <span class="project-tag">CFG / CYK</span>
       <span class="project-tag">Python</span>
     </div>
 
     <ul class="project-card__list">
-      <li>Built an NLP-powered conversational interface for student queries.</li>
-      <li>Handled real-time data processing with cross-team collaboration.</li>
+      <li>Implemented Context-Free Grammar (CFG) using CYK and LSTM and NER modules for dialogue understanding.</li>
+      <li>Applied BERT embeddings to compute cosine similarity between skills.</li>
     </ul>
 
     <div class="project-card__meta">

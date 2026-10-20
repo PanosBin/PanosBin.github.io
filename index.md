@@ -42,8 +42,8 @@ permalink: /
   <div class="about__content">
     <h1>{{ site.author.name }}</h1>
     <p class="subtitle">
-      MSc Student in Data Science &amp; AI<br>
-      Maastricht University
+      AI Engineer at 227 Data &mdash; Frontier Program<br>
+      MSc in Data Science &amp; AI &mdash; Maastricht University
     </p>
 
     <p class="about__tagline">
@@ -51,17 +51,19 @@ permalink: /
     </p>
 
 <p>
-  I am currently completing my MSc in Data Science for Decision Making at
-  <a href="https://www.maastrichtuniversity.nl" target="_blank" rel="noopener noreferrer">Maastricht University</a>
-  (expected May 2026), with a thesis on designing an LLM-integrated pipeline for Android vulnerability detection.
-  I hold a BSc in Economics from the University of Macedonia, Thessaloniki, and a Pre-MSc in Data Science & AI from Maastricht University.
+  I hold an MSc in Data Science for Decision Making from
+  <a href="https://www.maastrichtuniversity.nl" target="_blank" rel="noopener noreferrer">Maastricht University</a>,
+  where my thesis on LLM-augmented SAST reports for Android vulnerability triage was published at
+  IEEE CSR 2026. I also hold a BSc in Economics from the University of Macedonia, Thessaloniki,
+  and a Pre-MSc in Data Science &amp; AI from Maastricht University.
 </p>
 
 <p>
-  My experience spans data science, bioinformatics, cybersecurity, and teaching. I have worked as a Data Science Intern at
-  the Laboratory of Cellular Genomic Medicine (MUMC+)
-  and currently serve as a Teaching Assistant at Maastricht University across multiple courses including NLP
-  Cryptography, and Computer Security.
+  I am currently working as an AI Engineer at <strong>227 Data</strong> in Rotterdam, as part of the Frontier program.
+  My experience spans AI engineering, data science, bioinformatics, cybersecurity, and teaching.
+  I also work as an AI Trainer &amp; Evaluator at Micro1, and have worked as an AI Engineer at Experizon,
+  a Data Science Intern at the Laboratory of Cellular Genomic Medicine (MUMC+),
+  and as a Teaching Assistant at Maastricht University across courses including NLP, Cryptography, and Computer Security.
 </p>
 
     <h3>Areas of Interest</h3>
