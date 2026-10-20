@@ -107,6 +107,10 @@ permalink: /
         <span class="lang-name">English</span>
         <span class="lang-level">Full Professional</span>
       </div>
+      <div class="lang-item">
+        <span class="lang-name">Dutch</span>
+        <span class="lang-level">Elementary (A2)</span>
+      </div>
     </div>
 
   </div>
