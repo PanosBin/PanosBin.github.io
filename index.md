@@ -47,29 +47,28 @@ permalink: /
     </p>
 
     <p class="about__tagline">
-      Curious about data, cybersecurity, and AI. Always looking to learn something new and put it to use.
+      Passionate about building AI solutions that create real impact across different fields.
     </p>
 
 <p>
   I hold an MSc in Data Science for Decision Making from
   <a href="https://www.maastrichtuniversity.nl" target="_blank" rel="noopener noreferrer">Maastricht University</a>,
-  where my thesis on LLM-augmented SAST reports for Android vulnerability triage was published at
-  IEEE CSR 2026. I also hold a BSc in Economics from the University of Macedonia, Thessaloniki,
+  where my thesis was published at IEEE CSR 2026.
+  I also hold a BSc in Economics from the University of Macedonia, Thessaloniki,
   and a Pre-MSc in Data Science &amp; AI from Maastricht University.
 </p>
 
 <p>
-  I am currently working as an AI Engineer at <strong>227 Data</strong> in Utrecht, as part of the AI Frontier Program.
-  My experience spans AI engineering, data science, bioinformatics, cybersecurity, and teaching.
+  I am currently working as an AI Engineer at <strong>227 Data</strong> in Utrecht, as part of the AI Frontier Program,
+  where I develop and deliver AI solutions for clients across industries.
   I also work as an AI Trainer &amp; Evaluator at Micro1, and have worked as an AI Engineer at Experizon,
-  a Data Science Intern at the Laboratory of Cellular Genomic Medicine (MUMC+),
-  and as a Teaching Assistant at Maastricht University across courses including NLP, Cryptography, and Computer Security.
+  a Data Science Intern at MUMC+, and as a Teaching Assistant at Maastricht University.
 </p>
 
     <h3>Areas of Interest</h3>
     <ul class="interests-list">
+      <li>AI Engineering &amp; Applied AI Solutions</li>
       <li>Data Science &amp; Machine Learning</li>
-      <li>Cybersecurity &amp; Cloud Security</li>
       <li>Financial Markets &amp; Algorithmic Trading</li>
       <li>Blockchain &amp; Decentralized Finance</li>
     </ul>
