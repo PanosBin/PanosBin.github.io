@@ -42,8 +42,7 @@ permalink: /
   <div class="about__content">
     <h1>{{ site.author.name }}</h1>
     <p class="subtitle">
-      AI Engineer at 227 Data &mdash; AI Frontier Program<br>
-      MSc in Data Science &amp; AI &mdash; Maastricht University
+      AI Engineer at 227 Data &mdash; AI Frontier Program
     </p>
 
     <p class="about__tagline">
