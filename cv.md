@@ -44,10 +44,10 @@ description: "Curriculum Vitae of Panagiotis Binikos"
   <h2>Professional Experience</h2>
 
   <div class="cv-item">
-    <div class="cv-period">2026 &ndash; present</div>
+    <div class="cv-period">Oct 2026 &ndash; present</div>
     <div class="cv-details">
-      <strong>AI Engineer &mdash; Frontier Program</strong>
-      <div class="inst">227 Data, Rotterdam, Netherlands</div>
+      <strong>AI Engineer &mdash; AI Frontier Program</strong>
+      <div class="inst">227 Data, Utrecht, Netherlands</div>
     </div>
   </div>
 

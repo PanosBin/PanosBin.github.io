@@ -15,10 +15,10 @@ description: "Professional experience of Panagiotis Binikos."
     <div class="timeline-dot timeline-dot--current"></div>
     <div class="timeline-content">
       <div class="timeline-header">
-        <h3>AI Engineer &mdash; Frontier Program</h3>
-        <span class="timeline-period">2026 &ndash; Present</span>
+        <h3>AI Engineer &mdash; AI Frontier Program</h3>
+        <span class="timeline-period">Oct 2026 &ndash; Present</span>
       </div>
-      <div class="timeline-inst">227 Data &middot; Rotterdam, Netherlands</div>
+      <div class="timeline-inst">227 Data &middot; Utrecht, Netherlands</div>
     </div>
   </div>
 

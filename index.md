@@ -42,7 +42,7 @@ permalink: /
   <div class="about__content">
     <h1>{{ site.author.name }}</h1>
     <p class="subtitle">
-      AI Engineer at 227 Data &mdash; Frontier Program<br>
+      AI Engineer at 227 Data &mdash; AI Frontier Program<br>
       MSc in Data Science &amp; AI &mdash; Maastricht University
     </p>
 
@@ -59,7 +59,7 @@ permalink: /
 </p>
 
 <p>
-  I am currently working as an AI Engineer at <strong>227 Data</strong> in Rotterdam, as part of the Frontier program.
+  I am currently working as an AI Engineer at <strong>227 Data</strong> in Utrecht, as part of the AI Frontier Program.
   My experience spans AI engineering, data science, bioinformatics, cybersecurity, and teaching.
   I also work as an AI Trainer &amp; Evaluator at Micro1, and have worked as an AI Engineer at Experizon,
   a Data Science Intern at the Laboratory of Cellular Genomic Medicine (MUMC+),
