@@ -61,7 +61,7 @@ description: "Curriculum Vitae of Panagiotis Binikos"
   </div>
 
   <div class="cv-item">
-    <div class="cv-period">2026 &ndash; present</div>
+    <div class="cv-period">Dec 2025 &ndash; 2026</div>
     <div class="cv-details">
       <strong>AI Engineer</strong>
       <div class="inst">Experizon Start-up, Remote</div>

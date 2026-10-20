@@ -39,11 +39,11 @@ description: "Professional experience of Panagiotis Binikos."
   <div class="timeline-connector"></div>
 
   <div class="timeline-item">
-    <div class="timeline-dot timeline-dot--current"></div>
+    <div class="timeline-dot"></div>
     <div class="timeline-content">
       <div class="timeline-header">
         <h3>AI Engineer</h3>
-        <span class="timeline-period">2026 &ndash; Present</span>
+        <span class="timeline-period">Dec 2025 &ndash; 2026</span>
       </div>
       <div class="timeline-inst">Experizon Start-up &middot; Remote</div>
       <p class="timeline-note">Implementing AI features across the startup&rsquo;s products and internal workflows. Delivered AI-based autograding systems and AI project creation through API integrations.</p>
