@@ -46,7 +46,7 @@ permalink: /
     </p>
 
     <p class="about__tagline">
-      Passionate about building AI solutions that create real impact across different fields.
+      Passionate about building AI solutions that create real impact on business.
     </p>
 
 <p>
