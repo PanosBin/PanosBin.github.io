@@ -109,7 +109,7 @@ description: "Professional experience of Panagiotis Binikos."
     <div class="timeline-content">
       <div class="timeline-header">
         <h3>Blockchain &amp; Crypto Freelancer</h3>
-        <span class="timeline-period">2024 &ndash; Present</span>
+        <span class="timeline-period">2024 &ndash; 2025</span>
       </div>
       <div class="timeline-inst">Remote</div>
       <p class="timeline-note">Worked on over 100 projects during testnet and mainnet phases, focused on DeFi ecosystems and smart contracts.</p>

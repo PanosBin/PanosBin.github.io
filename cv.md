@@ -97,7 +97,7 @@ description: "Curriculum Vitae of Panagiotis Binikos"
   </div>
 
   <div class="cv-item">
-    <div class="cv-period">2024 &ndash; present</div>
+    <div class="cv-period">2024 &ndash; 2025</div>
     <div class="cv-details">
       <strong>Blockchain &amp; Crypto Freelancer</strong>
       <div class="inst">Remote</div>
